@@ -28,7 +28,7 @@ Capture live network packets using Wireshark, identify basic protocols, and gene
 ---
 
 ## 📁 Deliverables  
-- Packet Capture File: `task5_capture.pcap`  
+- Packet Capture File: `task5_capture.pcap`  (private/for security)
 - Report: `Task5_Report.docx` (or `.md` if uploaded)  
 
 ---
